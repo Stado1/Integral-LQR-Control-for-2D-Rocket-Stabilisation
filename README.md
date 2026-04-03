@@ -9,6 +9,9 @@ This is a simulation of a 2D rocket with 2 thrusters, one on the left side and o
 - Wind is added as an extra obstacle to properly test the controller, the wind is random on each run.
 
 
+https://github.com/user-attachments/assets/b2c3d54f-6902-49b2-adde-944b1f715dbf
+
+
 ## Dynamics
 The rocket is modeled with 6 states: $x = [x, \dot{x}, y, \dot{y}, \theta, \dot{\theta}]^T$
 This system is linearized around $\theta = 0$ using small angle approximation, because of this the rocket has to remain upright (within 20 degrees of 0) otherwise the system can become unstable.
