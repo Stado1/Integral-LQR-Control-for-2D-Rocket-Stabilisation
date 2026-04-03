@@ -9,7 +9,8 @@ This is a simulation of a 2D rocket with 2 thrusters, one on the left side and o
 - Wind is added as an extra obstacle to properly test the controller, the wind is random on each run.
 
 
-https://github.com/user-attachments/assets/b2c3d54f-6902-49b2-adde-944b1f715dbf
+https://github.com/user-attachments/assets/321832a7-f270-4e1a-b05e-4b6eb8b0e288
+
 
 
 ## Dynamics
