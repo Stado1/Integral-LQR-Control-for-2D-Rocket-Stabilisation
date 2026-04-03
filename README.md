@@ -25,10 +25,12 @@ To deal with the wind the state vector was augmented with the intergal of the er
 
 
 ## Performance
-The Eigenvalues of the closed loop system (A - BK) show that the all the poles are in the left plane:
-stability check (all real parts must be negative
+The Eigenvalues of the closed loop system (A - BK) show that the all the poles are in the left plane, meaning that the system is stable:
 $[-3.78552764+3.78609672j, -3.78552764-3.78609672j, -0.50106957+0.83320828j,
  -0.50106957-0.83320828j, -0.94623421+0.j,         -0.44279119+0.74261001j,
  -0.44279119-0.74261001j, -0.84605625+0.j        ]$
 
 And here are the graphs of 2 different runs:
+<img src="images/resultsLong1.png" alt="Logo" width="400"> <img src="images/resultsLong2" alt="Logo" width="400"> 
+
+In these graphs it can be seen that the rocket can fly on target for about 10 seconds of time, and then fly to the next target without any problems.
