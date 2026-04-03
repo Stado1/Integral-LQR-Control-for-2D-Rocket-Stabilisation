@@ -31,6 +31,6 @@ $[-3.78552764+3.78609672j, -3.78552764-3.78609672j, -0.50106957+0.83320828j,
  -0.44279119-0.74261001j, -0.84605625+0.j        ]$
 
 And here are the graphs of 2 different runs:
-<img src="images/resultsLong1.png" alt="Logo" width="400"> <img src="images/resultsLong2.png" alt="Logo" width="400"> 
+<img src="images/resultsLong1.png" alt="Logo" width="350"> <img src="images/resultsLong2.png" alt="Logo" width="350"> 
 
 In these graphs it can be seen that the rocket can fly on target for about 10 seconds of time, and then fly to the next target without any problems.
